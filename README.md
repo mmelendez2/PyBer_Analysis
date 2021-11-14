@@ -32,4 +32,4 @@ By creating a dataframe to include all the data listed above, we can further ana
 As we can see from the data above, it's evident that urban areas have a higher number of total rides. As expected, with such a high number of total rides, the number of total drivers and total fares is also significantly higher than those in rural or suburban areas. Also, it seems as though the number of rides has a direct impact on the average fare per ride and average fare per driver. Rural areas show the highest average fare per ride or driver given the low ride count and frequency. On the other end, urban areas have averaged to have the lowest fares per ride and per driver.
 
 Below, we can visualize the data throughout the months of January to the end of April:
-![image](https://user-images.githubusercontent.com/89496798/141698585-6aede3ea-2c4c-464f-a871-5cf3bc513997.png)
+![image](https://user-images.githubusercontent.com/89496798/141698687-a84316d4-190b-45d8-955f-2ad4ec5dfbb8.png)
