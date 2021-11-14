@@ -41,4 +41,4 @@ For example, the number of rides at the end of February slightly peaks for all c
 
 It may also make sense to incentivize more urban drivers to travel to rural or suburban areas. This may tighten the ride count disparity among all three areas by redistributing the range of service. 
 
-Another option could be to include a carpool option for those in rural and suburban areas in an effort to split the high fare price. This would be a huge advantage for those living in suburban areas who may be traveling to and from urban areas for work.
+Another option could be to include a carpool option for those in rural and suburban areas in an effort to split the high fare price. This would be a huge advantage for those living in suburban areas who may be traveling to and from urban areas for work. Overall, we may see a more even distribution of fare price and riders by increasing our ride-sharing service's flexibility and accessibility.
